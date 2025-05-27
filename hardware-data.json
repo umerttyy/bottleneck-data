@@ -1,0 +1,17 @@
+{
+  "cpus": [
+    { "name": "Intel i5-12400", "score": 12500 },
+    { "name": "Intel i7-13700K", "score": 27500 },
+    { "name": "AMD Ryzen 5 7600X", "score": 19000 },
+    { "name": "AMD Ryzen 7 7800X3D", "score": 29000 },
+    { "name": "Intel i9-13900K", "score": 38000 }
+  ],
+  "gpus": [
+    { "name": "RTX 4060", "score": 17500 },
+    { "name": "RTX 4070", "score": 23500 },
+    { "name": "RTX 4080", "score": 31000 },
+    { "name": "RTX 4090", "score": 42000 },
+    { "name": "AMD Radeon RX 7900 XTX", "score": 33000 }
+  ],
+  "resolutions": ["720p", "1080p", "1440p", "4K"]
+}
